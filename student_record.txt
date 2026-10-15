@@ -1,0 +1,7 @@
+Student Record
+
+Name: Dessy Rose M. Montes
+Course: BSCSSE
+Year Level: 3rd Year
+Favorite Programming Language: My favorite language is Java.
+Career Goal: I have not yet chosen a specific career in technology, I aim to find a path that aligns with my interests, strengths, and personality. I want to develop my technical skills, explore my potential, and build a fulfilling career that supports both professional growth and personal well-being.
